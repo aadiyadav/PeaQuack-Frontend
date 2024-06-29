@@ -1,0 +1,61 @@
+.rightbar{
+    flex: 4;
+}
+
+.rightbarWrapper{
+    margin: 10px;
+}
+
+.rightbarAd{
+    padding:5px;
+}
+
+.adImage{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.onlineFriendsHeading{
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.onlineFriendsIcon{
+    color: rgb(120, 243, 83);
+    margin: 3px;
+}
+
+.onlineFriendsText{
+    color: rgb(83, 83, 83);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.onlineFriends {
+    margin: 10px;
+}
+
+.onlineFriend{
+    display: flex;
+    align-items: center;
+    margin: 30px 10px;
+}
+
+.onlineFriendImage{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.onlineFriendIcon{
+    color: rgb(120, 243, 83);
+    margin: 0 0 -20px -12px;
+}
+
+.onlineFriendName{
+    margin-left: 10px;
+    font-family: Titillium Web;
+    font-size: 16px;
+}
