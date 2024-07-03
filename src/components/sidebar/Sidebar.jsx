@@ -44,27 +44,27 @@ export default function Sidebar() {
         <ul className="sidebarFriendList">
             <li className="sidebarFriend">
                 <img src="assets/profile-pictures/5.jpeg" alt="" className="sidebarFriendImage" />
-                <span className="sidebarFriendName">Joe Biden</span>
+                <span className="sidebarFriendName">Parishi Mishra</span>
             </li>
             <li className="sidebarFriend">
                 <img src="assets/profile-pictures/2.jpeg" alt="" className="sidebarFriendImage" />
-                <span className="sidebarFriendName">William Shakespeare</span>
+                <span className="sidebarFriendName">Sameer Ahmed</span>
             </li>
             <li className="sidebarFriend">
                 <img src="assets/profile-pictures/4.jpeg" alt="" className="sidebarFriendImage" />
-                <span className="sidebarFriendName">Kalpana Chawla</span>
+                <span className="sidebarFriendName">Katherine Parshad</span>
             </li>
             <li className="sidebarFriend">
                 <img src="assets/profile-pictures/6.jpeg" alt="" className="sidebarFriendImage" />
-                <span className="sidebarFriendName">Kim Jong Un</span>
+                <span className="sidebarFriendName">Yash Goyal</span>
             </li>
             <li className="sidebarFriend">
                 <img src="assets/profile-pictures/7.jpeg" alt="" className="sidebarFriendImage" />
-                <span className="sidebarFriendName">Tom Holland</span>
+                <span className="sidebarFriendName">Samaksh</span>
             </li>
             <li className="sidebarFriend">
                 <img src="assets/profile-pictures/3.jpeg" alt="" className="sidebarFriendImage" />
-                <span className="sidebarFriendName">Michael Jackson</span>
+                <span className="sidebarFriendName">Henry Williams</span>
             </li>
         </ul>
       </div>

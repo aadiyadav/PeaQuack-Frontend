@@ -16,27 +16,27 @@ export default function Rightbar() {
           <div className="onlineFriend">
             <img src="assets/profile-pictures/2.jpeg" alt="" className="onlineFriendImage" />
             <FiberManualRecordRounded className='onlineFriendIcon' fontSize='smaller'/>
-            <span className="onlineFriendName">William Shakespeare</span>
+            <span className="onlineFriendName">Sameer Ahmed</span>
           </div>
           <div className="onlineFriend">
             <img src="assets/profile-pictures/3.jpeg" alt="" className="onlineFriendImage" />
             <FiberManualRecordRounded className='onlineFriendIcon' fontSize='smaller'/>
-            <span className="onlineFriendName">Michael Jackson</span>
+            <span className="onlineFriendName">Henry Williams</span>
           </div>
           <div className="onlineFriend">
             <img src="assets/profile-pictures/4.jpeg" alt="" className="onlineFriendImage" />
             <FiberManualRecordRounded className='onlineFriendIcon' fontSize='smaller'/>
-            <span className="onlineFriendName">Kalpana Chawla</span>
+            <span className="onlineFriendName">Katherine Parshad</span>
           </div>
           <div className="onlineFriend">
             <img src="assets/profile-pictures/5.jpeg" alt="" className="onlineFriendImage" />
             <FiberManualRecordRounded className='onlineFriendIcon' fontSize='smaller'/>
-            <span className="onlineFriendName">Joe Biden</span>
+            <span className="onlineFriendName">Parishi Mishra</span>
           </div>
           <div className="onlineFriend">
             <img src="assets/profile-pictures/6.jpeg" alt="" className="onlineFriendImage" />
             <FiberManualRecordRounded className='onlineFriendIcon' fontSize='smaller'/>
-            <span className="onlineFriendName">Kim Jong Un</span>
+            <span className="onlineFriendName">Yash Goyal</span>
           </div>
         </div>
       </div>

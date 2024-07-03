@@ -2,9 +2,9 @@ export const Data =[
     {
         id: 1,
         photo: "assets/profile-pictures/3.jpeg",
-        username: "Michael Jackson",
+        username: "Henry Willams",
         time: "10 minutes ago",
-        caption: "Sunsets are pretty, pretty as tulips.",
+        caption: "Sunsets are pretty, as pretty as my mother.",
         post: "assets/posts/1.jpeg",
         likes: 43,
         comments: 24
@@ -22,7 +22,7 @@ export const Data =[
     {
         id: 3,
         photo: "assets/profile-pictures/6.jpeg",
-        username: "Kim Jong Un",
+        username: "Yash Goyal",
         time: "an hour ago",
         caption: "Lights glimmering, beautifully.",
         post: "assets/posts/3.jpeg",
@@ -32,7 +32,7 @@ export const Data =[
     {
         id: 4,
         photo: "assets/profile-pictures/4.jpeg",
-        username: "Kalpana Chawla",
+        username: "Katherine Parshad",
         time: "5 hours ago",
         caption: "Soching about life lately...",
         post: "assets/profile-pictures/7.jpeg",
@@ -42,7 +42,7 @@ export const Data =[
     {
         id: 5,
         photo: "assets/profile-pictures/5.jpeg",
-        username: "Joe Biden",
+        username: "Parishi Mishra",
         time: "17 hours ago",
         caption: "Safdarjung Tomb, New Delhi",
         post: "assets/posts/4.jpeg",
@@ -52,7 +52,7 @@ export const Data =[
     {
         id: 6,
         photo: "assets/profile-pictures/2.jpeg",
-        username: "William Shakespeare",
+        username: "Sameer Ahmed",
         time: "yesterday",
         caption: "Trying to hit back to the 20th century, when everything was black and white, yet pure.",
         post: "assets/posts/5.jpeg",
